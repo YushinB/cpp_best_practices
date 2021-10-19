@@ -1,0 +1,10 @@
+/.vc
+/doc
+*.db
+*.suo
+*.exe
+*.opendb
+*.pdb
+/temp
+*.ilk
+*.ini
